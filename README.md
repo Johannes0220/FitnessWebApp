@@ -1,6 +1,7 @@
 # FitnessWebApp
 
 ## VISION
+
 A free FitnessWebApp to track Workouts and progress. 
 Features:
  - For beginners, intermidiates and professionals
@@ -17,6 +18,7 @@ Features:
  -- pause timer between sets
  
  ## The Team
+ 
  - Thomas
  - Nick
  - Willi
