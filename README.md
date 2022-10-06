@@ -3,7 +3,7 @@
 ## VISION
 A free FitnessWebApp to track Workouts and progress. 
 Features:
- - For beginners, intermidiates and profesionals
+ - For beginners, intermidiates and professionals
  - Choosing a Trainingstype (Home, Gym, Calisthenics)
  - Premade workoutplans for every Trainingstype
  - Premade exercises for every muscle group
